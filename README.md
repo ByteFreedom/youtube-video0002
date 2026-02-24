@@ -1,6 +1,7 @@
 # Build your own Budget Home Server using Proxmox and Deploy Actual Budget
 
 <img src="media/video-thumb.png" height="200">
+https://www.youtube.com/watch?v=pVv-fFPuudc
 
 ## Hardware Checklist
 
